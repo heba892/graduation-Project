@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2c614c8.css",
+    "main.js": "/static/js/main.72353651.js",
+    "static/media/Forest.png": "/static/media/Forest.ac7952d9f9db9881a3a3.png",
+    "static/media/Forms.png": "/static/media/Forms.86abbb37df55e8995652.png",
+    "static/media/Recommendation.png": "/static/media/Recommendation.6bc6deefba0f987e9218.png",
+    "static/media/Computer.png": "/static/media/Computer.d67cc472beb7d6b58a4e.png",
+    "static/media/About.png": "/static/media/About.5267b48665e7222ab31c.png",
+    "static/media/section.jpg": "/static/media/section.abc194080b478b890b68.jpg",
+    "static/media/how-to-do-an-employee-background-check.jpg": "/static/media/how-to-do-an-employee-background-check.01ccce5c1f65bd9e27c8.jpg",
+    "static/media/profil2e.jpg": "/static/media/profil2e.bb46ef9abf74016a0ebb.jpg",
+    "static/media/help.jpg": "/static/media/help.f71f404d95b06009a05f.jpg",
+    "index.html": "/index.html",
+    "main.b2c614c8.css.map": "/static/css/main.b2c614c8.css.map",
+    "main.72353651.js.map": "/static/js/main.72353651.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2c614c8.css",
+    "static/js/main.72353651.js"
+  ]
+}
